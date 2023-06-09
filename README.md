@@ -2,7 +2,7 @@
 ![IDA Screenshot](/pic.gif)
 ## About:
 This project was doing some trick by reverse engineering BallTriX, a game from 1997 'Yeah too old :)'.
-You can find the ``.exe` file available [here]` (https://archive.org/details/BallTriX_1020) freely.
+You can find the `.exe` file available [here](https://archive.org/details/BallTriX_1020) freely.
 ### <mark>Note</mark>
 this project originally from the book 'Reverse Engineering for Beginners'.
 ## Methodology:
