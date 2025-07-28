@@ -1,5 +1,7 @@
 # BallTrix_Reverse_Engineering
-![IDA Screenshot](/pic.gif)
+
+<img src="/pic.gif" width=800>
+
 ## About:
 This project was doing some trick by reverse engineering BallTriX, a game from 1997 'Yeah too old :)'.
 You can find the `.exe` file available [here](https://archive.org/details/BallTriX_1020) freely.
